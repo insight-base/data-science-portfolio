@@ -7,7 +7,7 @@ VERSION: Versoin Number
 
 body {
   line-height: 1.2;
-  font-family: roboto, sans-serif;
+  font-family: roboto, Comic Sans MS;
   -webkit-font-smoothing: antialiased;
   font-size: 15px;
   color: #4c4c4c
@@ -18,7 +18,7 @@ p {
   color: #4c4c4c;
   font-size: 15px;
   line-height: 1.8;
-  font-family: roboto, sans-serif
+  font-family: roboto, Arial
 }
 
 h1,
@@ -28,7 +28,7 @@ h4,
 h5,
 h6 {
   color: #000;
-  font-family: playfair display, serif;
+  font-family: playfair display, Arial;
   line-height: 1.2
 }
 
@@ -80,7 +80,7 @@ h6,
 
 .btn {
   font-size: 22px;
-  font-family: playfair display, serif;
+  font-family: playfair display, Arial;
   text-transform: capitalize;
   padding: 16px 44px;
   border-radius: 5px;
@@ -339,7 +339,7 @@ a:hover {
 }
 
 .shadow {
-  box-shadow: 0 18px 39.1px 6.9px rgba(224, 241, 255, .34) !important
+  box-shadow: 0 18px 39.1px 6.9px rgb(9, 30, 30) !important
 }
 
 .bg-dark {
@@ -648,7 +648,7 @@ textarea.form-control {
 }
 
 .testimonial-content strong {
-  color: #2bfdff;
+  color: #225f60;
   font-weight: 400
 }
 

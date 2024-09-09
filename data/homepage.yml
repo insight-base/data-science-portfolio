@@ -34,7 +34,7 @@ about:
     cost of problems and delivering a return-on-investment with my solutions. 
     I enjoy learning, working with stakeholders, and making better decisions with data.
     </p>
-  author_image: "images/about/user-picture-2.jpg"
+  author_image: "images/about/user-picture-2.jpeg"
   button:
     enable : true
     label : "know more"
@@ -119,7 +119,7 @@ skill:
       progress : "60%"
       color : "#ffbcaa"
 
-# service
+# services
 service:
   enable : true
   title : "IBS Services"
