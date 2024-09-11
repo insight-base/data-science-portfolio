@@ -5,7 +5,7 @@ categories:
 title: "Property Price Prediction"
 date: "2019-05-12T12:14:34+06:00"
 description: Property Price Prediction Application.
-draft: no
+draft: false
 github_url: '[InsightBase Repo](https://www.github.com/insightbase)'
 image: images/portfolio/property_price_prediction.jpg
 project_url: "[View Dashboard](https://eddwin-cheteni.shinyapps.io/house-price-prediction/)"
