@@ -22,4 +22,4 @@ This application helps Marketing & R&D Teams determine product gaps and price ne
 
 ✅ HTML and CSS
 
-✅ Product Gap Analysis using Machine Learning (XGBoost)
+✅ Property Price Prediction using Machine learning (XGBoost)

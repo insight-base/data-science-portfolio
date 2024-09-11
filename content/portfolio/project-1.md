@@ -20,6 +20,6 @@ This application helps Marketing & Sales identify trends in product demand. The 
 
 ✅ HTML and CSS
 
-✅ Sales Demand Forecast using Machine Learning (XGBoost)
+✅ Sales Demand  Exploratory  Data Analysis
 
 ✅ Geograhic Visualization
