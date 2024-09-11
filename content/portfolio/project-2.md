@@ -1,14 +1,14 @@
 ---
 categories:
-- web apps
-- products
+- descriptive analytics
+- predictive analytics
+title: "Property Price Prediction"
 date: "2019-05-12T12:14:34+06:00"
-description: Product Price Recommendation Application.
-draft: false
-github_url: NA
-image: images/portfolio/app_cannondale_price_prediction.jpg
-project_url: '[View Dashboard](https://business-science.shinyapps.io/cannondale_price_prediction_app/)'
-title: Product Price Recommendation
+description: Property Price Prediction Application.
+draft: no
+github_url: '[InsightBase Repo](https://www.github.com/insightbase)'
+image: images/portfolio/property_price_prediction.jpg
+project_url: "[View Dashboard](https://eddwin-cheteni.shinyapps.io/house-price-prediction/)"
 ---
 
 

@@ -1,14 +1,13 @@
 ---
 categories:
-- web apps
-- sales
+- descriptive analytics
 date: "2024-09-12T12:14:34+06:00"
-description: Sales Demand EDA Application.
+description: Sales Demand Exploration.
 draft: false
 github_url: '[InsightBase Repo](https://www.github.com/insightbase)'
-image: images/portfolio/app_sales_demand_forecast.jpg
+image: images/portfolio/app_sales_demand_eda.jpg
 project_url: '[View Dashboard](https://eddwin-cheteni.shinyapps.io/bike-sales-app/)'
-title: Sales Demand EDA Application
+title: Sales Demand Exploration
 ---
 
 #### Project Details
