@@ -1,6 +1,5 @@
 ---
 categories:
-- web app
 - descriptive analytics
 date: "2024-09-12T12:14:34+06:00"
 description: Sales Demand Exploration.
@@ -8,12 +7,12 @@ draft: false
 github_url: '[InsightBase Repo](https://www.github.com/insightbase)'
 image: images/portfolio/app_sales_demand_eda.jpg
 project_url: '[View Dashboard](https://eddwin-cheteni.shinyapps.io/bike-sales-app/)'
-title: Sales Demand Exploration
+title: Sales Demand Exploratory Analysis
 ---
 
 #### Project Details
 
-This application helps Marketing & Sales identify trends in product demand. The application is built in the [5-Course R-Track System](https://university.business-science.io/p/5-course-bundle-machine-learning-web-apps-time-series).
+This application helps Marketing & Sales identify trends in product demand. The application is built by [Eddie Cheteni](https://eddwin-cheteni-ds-portfolio.netlify.app/).
 
 #### Project Requirements
 
