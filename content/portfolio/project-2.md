@@ -1,6 +1,5 @@
 ---
 categories:
-- web apps
 - predictive analytics
 title: "Property Price Prediction"
 date: "2024-09-11T12:14:34+06:00"
