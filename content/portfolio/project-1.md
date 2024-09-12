@@ -1,5 +1,6 @@
 ---
 categories:
+- web app
 - descriptive analytics
 date: "2024-09-12T12:14:34+06:00"
 description: Sales Demand Exploration.
@@ -22,4 +23,4 @@ This application helps Marketing & Sales identify trends in product demand. The 
 
 ✅ Sales Demand  Exploratory  Data Analysis
 
-✅ Geograhic Visualization
+✅ Geographic Visualization

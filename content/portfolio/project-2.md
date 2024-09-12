@@ -1,9 +1,10 @@
 ---
 categories:
+- web apps
 - descriptive analytics
 - predictive analytics
 title: "Property Price Prediction"
-date: "2019-05-12T12:14:34+06:00"
+date: "2024-09-11T12:14:34+06:00"
 description: Property Price Prediction Application.
 draft: false
 github_url: '[InsightBase Repo](https://www.github.com/insightbase)'
