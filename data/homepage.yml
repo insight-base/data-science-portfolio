@@ -1,6 +1,6 @@
 # banner
 banner:
-  title: "Hi! I’m <br> Eddie <br> <small>Data Scientist, Researcher & Founder of IBS</small>"
+  title: "<span style='font-family: Calibri; font-size: 3rem; font-weight: bold; color: #fff;'>Hi! I’m <br> Eddie <br> <small>Data Scientist, Researcher, Founder and CEO of IBS</small></span>"
   button:
     enable: true
     label: "Contact Eddie"
@@ -122,7 +122,7 @@ skill:
 # services
 service:
   enable : true
-  title : "IBS Services"
+  title : "Services"
   item:
     - title : "Data Strategy and Predictive Analytics"
       icon : "ti-palette"

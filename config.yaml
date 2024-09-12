@@ -57,7 +57,7 @@ menu:
       name: Portfolio
       weight: 3
     - URL: services
-      name: IBS Services
+      name: Services
       weight: 3
     - URL: contact
       name: Contact
