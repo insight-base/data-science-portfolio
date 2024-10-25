@@ -12,7 +12,7 @@ title: Sales Demand Exploratory Analysis
 
 #### Project Details
 
-This application helps Marketing & Sales identify trends in product demand. The application was built by [Eddie Cheteni](https://eddwin-cheteni-ds-portfolio.netlify.app/).
+This application helps Marketing & Sales identify trends in product demand. The application was developed by [Eddie Cheteni](https://eddwin-cheteni-ds-portfolio.netlify.app/).
 
 #### Project Requirements
 
