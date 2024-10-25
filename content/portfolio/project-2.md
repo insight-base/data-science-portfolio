@@ -13,7 +13,7 @@ project_url: "[View Dashboard](https://eddwin-cheteni.shinyapps.io/house-price-p
 
 #### Project Details
 
-This application helps Marketing & R&D Teams determine property gaps and price new properties to fill the gaps using machine learning. The application is built by [Eddie Cheteni](https://eddwin-cheteni-ds-portfolio.netlify.app/).
+This application helps Marketing & R&D Teams determine property gaps and price new properties to fill the gaps using machine learning. The application was developed by [Eddie Cheteni](https://eddwin-cheteni-ds-portfolio.netlify.app/).
 
 #### Project Requirements
 
