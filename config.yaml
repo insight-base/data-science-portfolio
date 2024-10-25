@@ -26,7 +26,7 @@ params:
     map_latitude: '51.5223477'
     map_longitude: '-0.1622023'
     map_marker: images/marker.png
-  phone: +27 67 972 2872
+  phone: +27 69 741 1319
   plugins:
     css:
       - link: plugins/bootstrap/bootstrap.min.css
